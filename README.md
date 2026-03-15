@@ -1,6 +1,6 @@
 # App Manual
 
-App manuals for Claude Code agents to understand and manipulate Electron apps via Chrome DevTools Protocol (CDP).
+App manuals for coding agents to understand and manipulate Electron apps via Chrome DevTools Protocol (CDP).
 
 Each manual documents how to launch, connect to, and automate a specific Electron application — including UI interaction patterns, keyboard shortcuts, gotchas, and proven workflows.
 

@@ -28,7 +28,7 @@ agent-browser --cdp 9222 click @e1            # click element
 agent-browser --cdp 9222 screenshot /tmp/screenshot.png
 ```
 
-### 2. chrome-devtools MCP (requires Claude Code restart)
+### 2. chrome-devtools MCP (requires agent restart)
 
 Config in `~/.claude.json`:
 ```json

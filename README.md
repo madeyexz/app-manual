@@ -26,3 +26,7 @@ All Electron apps follow the same connection pattern:
 - [`agent-browser`](https://github.com/vercel-labs/agent-browser) — Rust CLI for browser/Electron automation
 - [Playwright](https://playwright.dev/) — for complex interactions (drag-and-drop, trusted mouse events)
 - [puppeteer-core](https://pptr.dev/) — alternative CDP client (used in Superhuman bulk drafter)
+
+## Contributing
+
+PRs and contributions are welcome! If you have a manual for an Electron app you've automated, feel free to open a pull request.
